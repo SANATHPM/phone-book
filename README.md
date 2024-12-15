@@ -5,4 +5,4 @@ It implements terminal based interface and locally created files to store, retri
 
 ### Authors
 
-This project is created by [Abhishek MB](https://github.com/SANATHPM)
+This project is created by [SANATH P M](https://github.com/SANATHPM)
